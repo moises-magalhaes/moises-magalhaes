@@ -6,6 +6,7 @@
     -   wordpress/php
     -   html
     -   css
+    -   sketch
     -   photoshop
     -   illustrator
     -   premiere pro
