@@ -1,8 +1,17 @@
 - 👋 Hi, I’m @moises-magalhaes
-- 👀 I’m interested in web, ux/ui graphic design.
-- 🌱 I’m currently learning front end development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - moisesmdesign10@gmail.com
+-  I’m a junior front end developer.
+-  web, ux/ui, graphic designer.
+    -   React
+    -   javascript
+    -   wordpress/php
+    -   html
+    -   css
+    -   photoshop
+    -   illustrator
+    -   premiere pro
+    -   after effects
+    -   auto cad
+- 📫 How to reach me - moises@brainify.no / https://www.brainify.no/konsulenter/moises
+- 
 
-<!---
---->
+
