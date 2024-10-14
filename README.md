@@ -12,6 +12,6 @@
     -   premiere pro
     -   after effects
     -   auto cad
-- 📫 How to reach me - moises@brainify.no / https://www.brainify.no/konsulenter/moises
+- 📫 How to reach me - moises@vilmar.no / https://moisesmagalhaes.vercel.app/
 
 
