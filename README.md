@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Moisés Magalhães
--  I’m a junior front end developer.
+-  I’m a front end developer.
 -  web, ux/ui, graphic designer.
     -   React
     -   javascript
